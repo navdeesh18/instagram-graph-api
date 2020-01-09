@@ -1,0 +1,10 @@
+{
+    "name": "nkcx/instagram-graph-api",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nkcx\\InstagramGraphApi\\": "src/"
+        }
+    }
+}
